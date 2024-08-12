@@ -1,0 +1,12 @@
+.app-header {
+    background-color: #d0faf6;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .d-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
